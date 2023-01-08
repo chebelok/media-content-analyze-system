@@ -21,7 +21,7 @@ footer: "ECL 2.0 Licensed | Copyright © [2022] [Артем КУЩ]"
 
 *студент 2-го курсу, групи IM-13*<span padding-right:5em></span> **[Яцук Владислав](https://t.me/vladyatsuk)**
 
-*студент 2-го курсу, групи ІМ-13*<span padding-right:5em></span> **[Дмитро Тавлуй](https://t.me/demasmxrxz)**
+
 
 **Керівник**
 
