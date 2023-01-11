@@ -53,7 +53,7 @@ router.get('/', (req, res) => {
                     message: 'Something went wrong'
                 });
             }
-            res.status(200).send(`Role with id ${id} was added`)
+            res.status(200).send(`Role with id ${postId} was added`)
 
         })
 
