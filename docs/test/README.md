@@ -46,19 +46,19 @@
 ![delete output](./routes_role/deleteCheckRole.png)
 
 
-## Зчитування всіх сутностей role (GET)
+## Зчитування всіх сутностей access (GET)
 
 **Запит та відповідь**
 
 ![get all access](./routes_access/getAccess.png)
 
-## Зчитування сутностей role за id (GET)
+## Зчитування сутностей access за id (GET)
 
 **Запит та відповідь**
 
 ![get access by id](./routes_access/getByIdAccess.png)
 
-## Створення нової сутності role (POST)
+## Створення нової сутності access (POST)
 
 **Запит**
 
@@ -68,7 +68,7 @@
 
 ![new access output](./routes_access/postCheckAccess.png)
 
-## Оновлення сутності role (PUT)
+## Оновлення сутності access (PUT)
 
 **Запит**
 
@@ -78,7 +78,7 @@
 
 ![update access output](./routes_access/putCheckAccess.png)
 
-## Видалення сутності role (DELETE)
+## Видалення сутності access (DELETE)
 
 **Запит**
 
